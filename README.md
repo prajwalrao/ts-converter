@@ -1,6 +1,6 @@
 # Timestamp Converter
 
--------------------
+
 ### Chrome Extension to convert Epoch timestamps to a more friendly format.
 
 ****
