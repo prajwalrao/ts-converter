@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Timestamp Converter",
+  "description": "This extension will help you convert Epoch Timestamp into Human Readable Time on highlight.",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "css": ["ts-conv.css"],
+      "js": ["ts-conv.js"],
+      "run_at": "document_end",
+      "all_frames": true
+    }
+  ]
+}
