@@ -7,13 +7,15 @@ document.addEventListener('mouseup', function(e) {
 
   var selection = window.getSelection().toString();
   var myDate;
-  if (isNaN(selection) || (!selection)) {
+  if ((!selection) || isNaN(selection) || selection.length < 10 || selection.length > 13)  {
     return;
   } else {
     if (selection.length === 10) {
       myDate = new Date(JSON.parse(window.getSelection().toString() * 1000));
-    } else {
+    } else if (selection.length === 13) {
       myDate = new Date(JSON.parse(window.getSelection().toString()));
+    } else {
+      return;
     }
   }
 
