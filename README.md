@@ -1,3 +1,5 @@
+![Timestamp Converter Icon](https://raw.githubusercontent.com/prajwalrao/ts-converter/master/src/icons/icon_128x128.png)
+
 # Timestamp Converter
 
 
