@@ -5,6 +5,8 @@
 
 ### Chrome Extension to convert Epoch timestamps to a more friendly format.
 
+[![Chrome Web Store](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png)](https://chrome.google.com/webstore/detail/timestamp-converter/gkgflbiifhpciaafdhpafnejkpiffakp)
+
 ****
 ### Install
 
