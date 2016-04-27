@@ -1,7 +1,7 @@
 ![Timestamp Converter Icon](https://raw.githubusercontent.com/prajwalrao/ts-converter/master/src/icons/icon_128x128.png)
 
 # Timestamp Converter
-
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/d/gkgflbiifhpciaafdhpafnejkpiffakp.svg?maxAge=2592000?style=plastic)](https://chrome.google.com/webstore/detail/timestamp-converter/gkgflbiifhpciaafdhpafnejkpiffakp)
 
 ### Chrome Extension to convert Epoch timestamps to a more friendly format.
 
