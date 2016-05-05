@@ -31,3 +31,7 @@
 
 
 ![](https://raw.githubusercontent.com/prajwalrao/ts-converter/master/screenshots/ts-screenshot.png)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/prajwalrao/ts-converter/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
