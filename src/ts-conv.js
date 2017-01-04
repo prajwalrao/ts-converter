@@ -10,7 +10,6 @@ document.addEventListener('mouseup', function(e) {
   if ((!selection) || isNaN(selection) || selection.length < 10 || selection.length > 13)  {
     return;
   } else {
-    debugger;
     if (selection.length === 10) {
       myDate = new Date(JSON.parse(window.getSelection().toString() * 1000));
     } else if (selection.length === 13) {
